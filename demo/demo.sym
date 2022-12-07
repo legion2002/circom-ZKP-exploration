@@ -1,0 +1,10 @@
+1,1,2,main.result
+2,2,2,main.a
+3,3,2,main.b
+4,4,2,main.c
+5,-1,1,main.add.out
+6,-1,1,main.add.a1
+7,-1,1,main.add.a2
+8,-1,0,main.mul.c
+9,-1,0,main.mul.a
+10,-1,0,main.mul.b
